@@ -29,7 +29,7 @@ module.exports = {
 						  }
 
 						//TODO: change to original vector
-						if (usernames2.length % times !== 0) {
+						if (usernamesMock.length % times !== 0) {
 						 	await interaction.reply('O número de pessoas não é divisível pelo número de times especificado.'); // verifica se o numero de usuarios é divisivel pelo numero de times
 						return;
 						
