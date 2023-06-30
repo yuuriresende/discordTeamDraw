@@ -1,5 +1,4 @@
 # Arquivos de configuração sensíveis
-node_modules/
 config.json
 .env
 # Dependências Node.js
